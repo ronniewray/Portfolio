@@ -1,0 +1,103 @@
+﻿GameNum,Date,Killer,Perk1,Perk2,Perk3,Perk4,Score,Kills,Escaped
+1,7/19/2024,The Trapper,Franklin's Demise,Lightborn,Lethal Pursuer,Nowhere To Hide,"17,375",1,Y
+2,7/19/2024,The Plague,Infectious Fright,Dark Devotion,Corrupt Intervention,N/A,"10,036",0,Y
+3,7/19/2024,The Nurse,Weave Attunement,Thrilling Tremors,BBQ & Chili,Tinkerer,"25,742",3,Y
+4,7/19/2024,The Nurse,Surge,Stridor,Thanatophobia,A Nurses Calling,"28,756",2,Y
+5,7/19/2024,The Deathslinger,No Way Out,Oppression,Lethal Pursuer,Friends 'till the End,"19,039",3,Y
+6,7/20/2024,The Wraih,Sloppy Butcher,Hex: No One Escapes Death,Bitter Murmur,Spies From The Shadows,"28,398",3,Y
+7,7/20/2024,The Knight,Hubris,Lightborn,Enduring,Hex: Two Can Play,"25,246",1,Y
+8,7/20/2024,The Knight,A Nurse's Calling,Nowhere To Hide,Call Of Brine,Scourge Hook: Gift Of Pain,"25,258",1,Y
+9,7/20/2024,The Ghost Face,Nowhere To Hide,Bamboozle,Unforeseen,Hex: Plaything,"32,510",4,N
+10,7/20/2024,The Executioner,Call Of Brine,Corrupt Intervention,Lightborn,A Nurse's Calling,"20,044",0,Y
+11,7/20/2024,The Ghost Face,Franklin's Demise,Hex: Ruin,Terminus,BBQ & Chili,"24,892",0,Y
+12,7/20/2024,The Huntress,A Nurse's Calling,Iron Grasp,Iron Maiden,Corrupt Intervention,"19,738",1,N
+13,7/20/2024,The Nurse,Deathbound,A Nurse's Calling,Iron Grasp,Hysteria,"26,061",4,N
+14,7/20/2024,The Legion,Discordance,Iron Grasp,Spies From The Shadows,Lightborn,"20,628",2,Y
+15,7/20/2024,The Xenomorph,Corrupt Intervention,Grim Embrace,Scourge Hook: Pain Resonance,Rapid Brutality,"30,622",4,N
+16,7/20/2024,The Huntress,N/A,N/A,N/A,N/A,"24,448",3,Y
+17,7/20/2024,The Cannibal,Furtive Chase,Bamboozle,Machine Learning,Pop Goes The Weasel,"17,403",0,Y
+18,7/20/2024,The Ghost Face,Lethal Pursuer,Discordance,Spirit Fury,Hex: No One Escapes Death,"15,453",2,Y
+19,7/20/2024,The Hillbilly,Pop Goes The Weasel,BBQ & Chili,Grim Embrace,Lethal Pursuer,"30,392",2,Y
+20,7/21/2024,The Nemisis,Eruption,Hysteria,Lethal Pursuer,Iron Grasp,"35,380",4,N
+21,7/21/2024,The Lich,Deathbound,N/A,N/A,N/A,"29,690",4,N
+22,7/21/2024,The Wraith,N/A,N/A,N/A,N/A,"31,540",4,N
+23,7/21/2024,The Legion,Sloppy Butcher,Nowhere To Hide,Merciless Storm,Knock Out,"30,134",4,N
+24,7/21/2024,The Hag ,Hex: Devour Hope,Hex: Ruin,Hex: The Third Seal,N/A,"30,673",4,N
+25,7/21/2024,The Unknown,Hex: No One Escapes Death,Unbound,Thrilling Tremors,I'm All Ears,"15,187",0,Y
+26,7/21/2024,The Knight,Thrilling Tremors,Lightborn,No Way Out,Unnerving Presence,"28,379",2,Y
+27,7/21/2024,The Doctor,Hex: Thrill Of The Hunt,Overcharge,Beast Of Prey,Unnerving Presence,"34,300",4,N
+28,7/21/2024,The Deathslinger,Dead Man's Switch,Friends 'till the End,Scourge Hook: Monstrous Shrine,Iron Grasp,"22,355",2,Y
+29,7/21/2024,The Artist,Discordance,Starstruck,Grim Embrace,Hysteria,"27,018",1,Y
+30,7/21/2024,The Clown,Bamboozle,Grim Embrace,Pop Goes The Weasel,Dragon's Grip,"21,790",3,Y
+31,7/21/2024,The Mastermind,Awakened Awareness,Eruption,Surge,Superior Anatomy,"29,193",3,N
+32,7/21/2024,The Wraith,Shadowborn,Bloodhound,Predator,N/A,"27,390",4,N
+33,7/21/2024,The Mastermind,Terminus,A Nurse's Calling,Monitor & Abuse,Unforeseen,"27,372",4,N
+34,7/22/2024,The Trapper,Agitation,Insidious,Unrelenting,Iron Grasp,"20,355",4,N
+35,7/22/2024,The Legion,Lethal Pursuer,Thanatophobia,Hex: The Third Seal,A Nurse's Calling,"31,943",3,Y
+36,7/22/2024,The Nightmare,Blood Warden,Hex: Devour Hope,Hex: No One Escapes Death,No Way Out,"25,753",1,Y
+37,7/22/2024,The Huntress,Distressing,Hex: Devour Hope,Hex: Undying,Hex: Ruin,"29,005",3,Y
+38,7/22/2024,The Nemisis,Agitation,Starstruck,Awakened Awareness,Iron Grasp,"13,806",4,N
+39,7/22/2024,The Nurse,A Nurse's Calling,Iron Grasp,Stridor,Bitter Murmur,"17,172",1,N
+40,7/22/2024,The Demogorgon,Sloppy Butcher,Dead Man's Switch,Cruel Limits,Bamboozle,"15,649",0,Y
+41,7/22/2024,The Hillbilly,Enduring,Spies From The Shadows,Blood Echo,Bitter Murmur,"27,823",1,N
+42,7/22/2024,The Trapper,Mad Grit,Iron Grasp,Agitation,Forced Penance,"28,894",4,N
+43,7/22/2024,The Trickster,Nowhere To Hide,Hex: No One Escapes Death,Franklin's Demise,Lethal Pursuer,"32,128",4,N
+44,7/22/2024,The Legion,Discordance,Grim Embrace,Scourge Hook: Pain Resonance,Spies From The Shadows,"37,900",4,N
+45,7/22/2024,The Singularity,Nowhere To Hide,BBQ & Chili,Grim Embrace,Tinkerer,"26,647",4,N
+46,7/22/2024,The Skull Merchant,Iron Grasp,Hex: No One Escapes Death,No Way Out,Lightborn,"24,823",4,N
+47,7/22/2024,The Clown,Hex: Ruin,Play With Your Food,Brutal Strength,Bamboozle,"30,554",4,N
+48,7/22/2024,The Huntress,Iron Maiden,Brutal Strength,Discordance,BBQ & Chili,"23,255",1,N
+49,7/22/2024,The Ghost Face,Nowhere To Hide,Friends 'till the End,Overcharge,Lightborn,"19,901",0,Y
+50,7/22/2024,The Cannibal,Deerstalker,BBQ & Chili,Rancor,Alien Instinct,"20,078",2,Y
+51,7/22/2024,The Executioner,I'm All Ears,Nowhere To Hide,Unforeseen,Scourge Hook: Pain Resonance,"30,638",3,N
+52,7/22/2024,The Legion,Corrupt Intervention,Hex: Ruin,BBQ & Chili,Surveillance,"24,335",4,N
+53,7/22/2024,The Cenobite,Unnerving Presence,A Nurse's Calling,Brutal Strength,Lightborn,"33,079",4,N
+54,7/22/2024,The Ghost Face,I'm All Ears,Furtive Chase,Distressing,Insidious,"7,283",0,Y
+55,7/22/2024,The Cannibal,N/A,N/A,N/A,N/A,"25,946",4,N
+56,7/22/2024,The Trickster,Bloodhound,Hex: Devour Hope,Dead Man's Switch,Lightborn,"12,463",0,Y
+57,7/22/2024,The Good Guy,Hex: Two Can Play,Friends 'til the End,Batteries Included,Hex: Thrill Of The Hunt,"23,306",2,Y
+58,7/22/2024,The Wraith,Predator,Mindbreaker,A Nurse's Calling,Surge,"31,078",3,N
+59,7/22/2024,The Wraith,Scourge Hook: Monstrous Shrine,Shadowborn,Deerstalker,N/A,"28,344",2,N
+60,7/22/2024,The Cannibal,Bamboozle,Tinkerer,BBQ & Chili,Deadlock,"20,009",4,N
+61,7/23/2024,The Twins,Pop Goes The Weasel,Dead Man's Switch,Gearhead,Oppression,"11,364",0,Y
+62,7/23/2024,The Huntress,N/A,N/A,N/A,N/A,"19,184",4,N
+63,7/23/2024,The Demogorgon,Knock Out,Surge,Deerstalker,Infectious Fright,"37,500",2,Y
+64,7/23/2024,The Demogorgon,Save The Best For Last,Pop Goes The Weasel,Eruption,Nowhere To Hide,"19,646",2,Y
+65,7/23/2024,The Good Guy,Discordance,A Nurse's Calling,I'm All Ears,Rancor,"22,180",2,Y
+66,7/23/2024,The Trickster,No Way Out,Brutal Strength,Scourge Hook: Pain Resonance,Deadlock,"30,492",4,N
+67,7/23/2024,The Deathslinger,Dead Man's Switch,Hex: Retribution,Gearhead,N/A,"30,903",4,N
+68,7/23/2024,The Wraith,Lightborn,Sloppy Butcher,Iron Grasp,Predator,"29,313",4,N
+69,7/24/2024,The Wraith,Sloppy Butcher,Enduring,Lethal Pursuer,Grim Embrace,"29,533",3,N
+70,7/24/2024,The Ghost Face,Unrelenting,I'm All Ears,Thrilling Tremors,Bitter Murmur,"17,235",0,Y
+71,7/24/2024,The Lich,Superior Anatomy,Thrilling Tremors,Iron Maiden,Weave Attunement,"31,828",4,N
+72,7/24/2024,The Singularity,Machine Learning,Rapid Brutality,Call Of Brine,Dissolution,"36,745",4,N
+73,7/24/2024,The Good Guy,Overcharge,Spirit Fury,Enduring,Franklin's Demise,"22,140",2,N
+74,7/24/2024,The Ghost Face,Iron Grasp,I'm All Ears,Thrilling Tremors,N/A,"15,294",0,Y
+75,7/24/2024,The Skull Merchant,Thwak!,Leverage,Game Afoot,A Nurse's Calling,"28,253",2,N
+76,7/24/2024,The Pig,Oppression,Lethal Pursuer,Nowhere To Hide,Spies From The Shadows,"36,000",4,N
+77,7/24/2024,The Trapper,Corrupt Intervention,Hex: Plaything,Scourge Hook: Pain Resonance,Hex: Pentimento,"31,202",4,N
+78,7/24/2024,The Clown,Pop Goes The Weasel,Hex: Ruin,Bitter Murmur,Grim Embrace,"21,486",0,Y
+79,7/24/2024,The Good Guy,Unrelenting,Hex: Two Can Play,Friends 'til The End,Bitter Murmur,"22,120",0,Y
+80,7/24/2024,The Oni,Infectious Fright,BBQ & Chili,Bamboozle,Pop Goes The Weasel,"15,011",0,Y
+81,7/24/2024,The Artist,Lethal Pursuer,BBQ & Chili,Discordance,A Nurse's Calling,"24,604",4,N
+82,7/24/2024,The Blight,A Nurse's Calling,Tinkerer,Spies From The Shadows,Dragon's Grip,"23,515",4,N
+83,7/24/2024,The Clown,Coulrophobia,Bamboozle,Pop Goes The Weasel,N/A,"11,281",0,Y
+84,7/24/2024,The Artist,Hex: Plaything,Oppression,Scourge Hook: Monstrous Shrine,Nowhere To Hide,"26,605",2,Y
+85,7/24/2024,The Trapper,Sloppy Butcher,Franklin's Demise,Thanatophobia,Bamboozle,"13,278",0,Y
+86,7/24/2024,The Deathslinger,Brutal Strength,Scourge Hook: Pain Resonance,Discordance,Hex: Plaything,"32,699",4,N
+87,7/25/2024,The Clown,Friends 'til The End,Corrupt Intervention,Pop Goes The Weasel,Hex: Plaything,"19,682",0,Y
+88,7/25/2024,The Legion,Discordance,BBQ & Chili,Bitter Murmur,Knock Out,"17,327",3,Y
+89,7/25/2024,The Hillbilly,Enduring,Tinkerer,Hex: No One Escapes Death,Unrelenting,"24,798",4,N
+90,7/25/2024,The Knight,Spies From The Shadows,Call Of Brine,Hubris,Unrelenting,"19,096",4,N
+91,7/25/2024,The Huntress,Deerstalker,Brutal Strength,N/A,N/A,"15,088",0,Y
+92,7/25/2024,The Doctor,Monitor & Abuse,N/A,N/A,N/A,"11,264",0,Y
+93,7/25/2024,The Nurse,Lightborn,Overcharge,Unrelenting,Iron Grasp,"21,622",3,Y
+94,7/25/2024,The Hag ,Unrelenting,Distressing,Hex: Devour Hope,Hex: Ruin,"20,923",3,Y
+95,7/25/2024,The Executioner,Iron Grasp,Bitter Murmur,Nowhere To Hide,Thrilling Tremors,"26,034",4,N
+96,7/25/2024,The Shape,Franklin's Demise,Hex: No One Escapes Death,Lethal Pursuer,Iron Grasp,"24,719",1,Y
+97,7/25/2024,The Knight,Ultimate Weapon,Nowhere To Hide,Friends 'til The End,Hubris,"14,003",3,N
+98,7/25/2024,The Singularity,Bamboozle,Scourge Hook: Pain Resonance,Discordance,Deadlock,"29,720",4,N
+99,7/25/2024,The Nurse,I'm All Ears,Lethal Pursuer,Blood Warden,BBQ & Chili,"28,159",4,N
+100,7/25/2024,The Demogorgon,Save The Best For Last,BBQ & Chili,Corrupt Intervention,Scourge Hook: Pain Resonance,"30,224",4,N
+,,,,,,,,,
+,,,,,,,,,
